@@ -1,5 +1,7 @@
 # 240034-Kripto26
 
-**Nama :** [Nena Haryadi Puspanegara] 
-**NPM  :** [140810240034] 
-**Mata Kuliah :** [Praktikum Kriptografi
+**Nama :Nena Haryadi Puspanegara**
+<br>
+**NPM  : 140810240034**
+<br>
+**Mata Kuliah : Praktikum Kriptografi**
