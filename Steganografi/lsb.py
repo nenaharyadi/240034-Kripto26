@@ -93,10 +93,10 @@ def decode_lsb_sekuensial(image_path):
     return "Pesan tidak ditemukan atau gambar rusak."
 
 if __name__ == '__main__':
-    print("Program Stenogrfi metode LSB")
+    print("Program Steganografi metode LSB")
     
     cover = "cover.png"
-    stego = "stego_sekuensial.png"
+    stego = "steganografi.png"
     pesan = "hai aku nena salam kenal, ini pesan rahasia menggunakan lsb."
     
     # Encode
